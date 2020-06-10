@@ -1,0 +1,2 @@
+Consumer içi... input.txt 
+
